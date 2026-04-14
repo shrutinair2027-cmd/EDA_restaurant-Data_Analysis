@@ -24,9 +24,10 @@ his project focuses on Exploratory Data Analysis (EDA) of restaurant data conduc
 - Pricing varies significantly across states
 
 ##  Project Files
-- EDA Notebook (.ipynb)
-- Dataset (.csv)
-- Presentation (.ppt)
+- EDA project_part_1 (.ipynb)
+- EDA project_part_2 (.ipynb)
+- EDA_eazy_dinner_FInal_Data (.xls)
+- EDA_Restaurant_Project_Report (.ppt)
 
 ##  Conclusion
 The analysis provides actionable insights for a restaurant chain owner to strategically expand in India. By understanding city-wise demand, pricing trends, and popular cuisines, the project recommends suitable locations and business strategies for premium, mid-budget, and low-budget restaurant segments, helping maximize profitability and target the right customer base.
